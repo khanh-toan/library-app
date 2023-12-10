@@ -7,7 +7,7 @@ export const CheckoutAndReviewBox: React.FC<{ book: BookModel | undefined, mobil
             <div className='card-body container'>
                 <div className='mt-3'>
                     <p>
-                        <b>0.5</b> 
+                        <b>0/5</b> 
                         books checked out
                     </p>
                     <hr />
